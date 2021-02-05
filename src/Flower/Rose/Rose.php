@@ -8,4 +8,9 @@ class Rose {
 	{
 		echo "this is rose flower";
 	}
+
+	public function run()
+	{
+		echo "this is update";
+	}
 }
